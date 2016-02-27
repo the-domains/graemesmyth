@@ -1,28 +1,40 @@
-name: GraemeSmyth
 favicon: null
-layout_spectrum: 0.23222939320839942
-typography_spectrum: 0.443745450116694
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: GraemeSmyth
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.6397849
+  brandStrength: 0.5412011481821537
+  lightness: 0.9713262
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.5412011481821537
-  lightness: 0.4481324343942106
-  saturation: 0.6497989275958389
-  rhythmicContrast: 0.838710896903649
-purpose: []
+  rhythmicContrast: 0.6433692
+typography_spectrum: 0.1935484
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
