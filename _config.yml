@@ -1,0 +1,28 @@
+name: GraemeSmyth
+favicon: null
+layout_spectrum: 0.23222939320839942
+typography_spectrum: 0.443745450116694
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5412011481821537
+  lightness: 0.4481324343942106
+  saturation: 0.6497989275958389
+  rhythmicContrast: 0.838710896903649
+purpose: []
