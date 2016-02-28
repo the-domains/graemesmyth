@@ -4,8 +4,15 @@
         <description><![CDATA[GraemeSmyth]]></description>
         <link>http://graemesmyth.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 17:42:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2016 08:23:01 GMT</lastBuildDate>
         <atom:link href="http://graemesmyth.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Good Morning]]></title>
+            <description><![CDATA[<h1>Good Morning</h1>]]></description>
+            <link>http://graemesmyth.com/good-morning/index.html</link>
+            <guid isPermaLink="false">6b1959d1-b22a-4bea-b234-d232ac3dae2d</guid>
+            <pubDate>Sun, 28 Feb 2016 08:22:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/949312d7-a602-4c45-aae4-8c5b16f38aa5.png">]]></description>
